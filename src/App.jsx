@@ -27,7 +27,7 @@ const App = () => {
       <About />
       <Skills />
       {/* <Projects/> */}
-{/*       <Contact /> */}
+      <Contact />
 
       {/* <Routes>
         <Route path="/" element={<Home/>} />
