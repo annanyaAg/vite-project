@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icons{
+    filter: invert(96%) sepia(91%) saturate(7494%) hue-rotate(103deg) brightness(102%) contrast(105%);
+}
+.react-logo{
+    filter: invert(85%) sepia(11%) saturate(5027%) hue-rotate(163deg) brightness(100%) contrast(92%);    
+}
+.location-icon{
+    filter: invert(100%) sepia(1%) saturate(0%) hue-rotate(198deg) brightness(108%) contrast(100%);
+}
+.email-icon{
+    filter: invert(96%) sepia(91%) saturate(7494%) hue-rotate(103deg) brightness(102%) contrast(105%);
+}
